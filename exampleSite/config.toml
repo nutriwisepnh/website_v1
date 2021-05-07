@@ -22,10 +22,6 @@ name = "services"
 url = "#services"
 weight = 2
 [[Languages.en.menu.main]]
-name = "portfolio"
-url = "#portfolio"
-weight = 3
-[[Languages.en.menu.main]]
 name = "team"
 url = "#team"
 weight = 4
@@ -41,10 +37,6 @@ weight = 6
 name = "contact"
 url = "#contact"
 weight = 7
-[[Languages.en.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
@@ -61,18 +53,6 @@ name = "un service"
 url = "#services"
 weight = 2
 [[Languages.fr.menu.main]]
-name = "portefeuille"
-url = "#portfolio"
-weight = 3
-[[Languages.fr.menu.main]]
-name = "équipe"
-url = "#team"
-weight = 4
-[[Languages.fr.menu.main]]
-name = "tarification"
-url = "#pricing"
-weight = 5
-[[Languages.fr.menu.main]]
 name = "blog"
 url = "#blog"
 weight = 6
@@ -80,10 +60,6 @@ weight = 6
 name = "contact"
 url = "#contact"
 weight = 7
-[[Languages.fr.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
