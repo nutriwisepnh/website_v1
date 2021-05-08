@@ -63,7 +63,7 @@ weight = 7
 [params]
 author = "Melanie van Gendt"
 description = ""
-google_analytics_id = ""
+google_analytics_id = "nutriwise.pnh"
 logo = "images/websitelogo_v2.png"
 post_share = true
 [params.cookies]
