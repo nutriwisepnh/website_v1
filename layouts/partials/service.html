@@ -19,6 +19,7 @@
 			{{ range .service_item}}
 			{{"<!-- Single Service Item -->" | safeHTML }}
 			<article class="col-lg-4 col-md-6 col-12 wow fadeInUp" data-wow-duration="500ms">
+				<a href="{{.mdpath}}" style="display:block">
 				<div class="service-block text-center" href="{{.mdpath}}">
 					<a href="{{.mdpath}}">testlink</a>
 					<div class="service-icon text-center">
@@ -27,6 +28,7 @@
 					<h3>{{ .name | markdownify }}</h3>
 					<p>{{ .content | markdownify }}</p>
 				</div>
+				</a>
 			</article>
 			{{"<!-- End Single Service Item -->" | safeHTML }}
 			{{ end }}
