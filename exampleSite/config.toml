@@ -61,10 +61,10 @@ name = "contact"
 url = "#contact"
 weight = 7
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax Hugo Template"
+author = "Melanie van Gendt"
+description = ""
 google_analytics_id = ""
-logo = "images/logo.png"
+logo = "images/websitelogo_v2.png"
 post_share = true
 [params.cookies]
 enable = false
@@ -103,19 +103,13 @@ link = "plugins/google-map/map.js"
 enable = false
 preloader = "images/logo.png"
 [[params.social]]
+icon = ""
+link = ""
+[[params.social]]
 icon = "ti-facebook"
 link = "#"
 [[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
-icon = "ti-youtube"
-link = "#"
-[[params.social]]
 icon = "ti-linkedin"
-link = "#"
-[[params.social]]
-icon = "ti-dribbble"
 link = "#"
 [[params.social]]
 icon = "ti-pinterest"
