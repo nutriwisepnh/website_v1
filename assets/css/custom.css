@@ -2,4 +2,7 @@
   border-radius:10px
 }
 
+.service-block {
+  background-color: red /* change colour of the service blocks that link to the service */
+}
   
