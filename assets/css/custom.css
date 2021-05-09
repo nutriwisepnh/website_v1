@@ -21,7 +21,14 @@
         background: #ebede8; /* light green */
         }
 
-/*------- All Text colours------- */
+  /*feature intro me */
+
+        .section-bg {
+        background: #f1eae4; /* beige  */
+        }
+
+
+/*------- All Text colours and stuff------- */
 
           /*navigation bar, when scrolled down*/
         .navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link{
@@ -42,8 +49,17 @@
         color: #55674f;  /* de "US" part, that is usually a different colour is now same, dark green */
         }
         
+    /*Feauture*/
+        /* know more link */
+        .knowmore {
+            text-align: center
+        }
+        /* Main text */
 
+        body {
+        color: #2385df;
 
+        }
 
 
  /*Analyze my diet, the text under the title*/
