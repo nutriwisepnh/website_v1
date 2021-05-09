@@ -5,16 +5,28 @@
   background-color: #ffffff
 }
 
+::selection {
+color: #fff;
+background: #55674f;  /*green, on selection of the navigation bar items */
+}
+
+
 
 /*------- All Text colours------- */
 
   /*navigation bar, when scrolled down*/
-
 .navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link{
   color: #ad513b /*red*/
 }
 
+  /*navigation bar, normal colour*/
+.navbar-dark .navbar-nav .nav-link {
+color: #604c4c;   /*still have to be adjusted */
+}
 
+ /*Analyze my diet, the text under the title*/
+call-to-action p {
+color: #e9e9e9;  /* depends on image behing what we should do for oclour */
 
 
 .service-block, .block {
