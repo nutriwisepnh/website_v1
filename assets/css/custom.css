@@ -40,8 +40,18 @@
  /* Contact us */
 
         .contact-us.section-bg {
-            background-color: 55674f
+            background-color: 55674f /*dark green */
         }
+
+        /* button contact us submit */
+        .contact-submit {
+            backgroud-color: #ebede8 /* very light green */
+        }       
+
+        .contact-submit:hover {
+                            background: #698161; /*mid green*/
+                            color: #fff
+                            }
 
 
 /*------- All Text colours and stuff------- */
