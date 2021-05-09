@@ -23,15 +23,28 @@
 
 /*------- All Text colours------- */
 
-  /*navigation bar, when scrolled down*/
-.navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link{
-  color: #ad513b /*red*/
-}
+          /*navigation bar, when scrolled down*/
+        .navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link{
+          color: #ad513b /*red*/
+        }
 
-  /*navigation bar, normal colour*/
-.navbar-dark .navbar-nav .nav-link {
-color: #604c4c;   /*still have to be adjusted */
-}
+          /*navigation bar, normal colour*/
+        .navbar-dark .navbar-nav .nav-link {
+        color: #604c4c;   /*still have to be adjusted */
+        }
+
+  /*About us, de title*/
+        .title h2 {
+        color: #55674f;
+        }
+
+        .title h2 span {
+        color: #55674f;  /* de "US" part, that is usually a different colour is now same, dark green */
+        }
+        
+
+
+
 
  /*Analyze my diet, the text under the title*/
 call-to-action p {
