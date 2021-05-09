@@ -1,8 +1,8 @@
 ---
 cta:
   enable: true
-  bg_image: pexels-photo-2014691.jpg
-  bg_image_webp: ''
+  bg_image: "/images/pexels-photo-2014691.jpg"
+  bg_image_webp: "/images/pexels-photo-2014691.webp"
   title: Analyze My Diet
   content: Curious if your current dietary habits met your requirements and recommendations?
   button:
