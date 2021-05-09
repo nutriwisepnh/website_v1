@@ -37,7 +37,11 @@
         background-color: #ebede8; /* light green */
         }
 
+ /* Contact us */
 
+        .contact-us.section-bg {
+            background-color: 55674f
+        }
 
 
 /*------- All Text colours and stuff------- */
