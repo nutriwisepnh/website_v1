@@ -27,6 +27,18 @@
         background: #f1eae4; /* beige  */
         }
 
+ /*blog */
+          /*blog bg*/
+           section {
+               background-color: #ffffff
+        }
+
+    .post-block {
+        background-color: #ebede8; /* light green */
+        }
+
+
+
 
 /*------- All Text colours and stuff------- */
 
@@ -60,9 +72,7 @@
         color: #2385df;
         }
 
-    /*blog*/
-    section {
-        background-color: #ffffff
+ 
 }
 
 
