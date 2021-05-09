@@ -1,21 +1,25 @@
 /*------- All back ground colours------- */
 
     /*navigation bar*/
-.navigation {
-  background-color: #ffffff
-}
+        .navigation {
+          background-color: #ffffff
+        }
 
-::selection {
-color: #fff;
-background: #55674f;  /*green, on selection of the navigation bar items */
-}
+        ::selection {
+        color: #fff;
+        background: #55674f;  /*green, on selection of the navigation bar items */
+        }
 
   /*About us part */
-    .bg-one {
-background-color: #ffffff;
-}
+        /* main bg */
+            .bg-one {
+        background-color: #ffffff;
+        }
 
-
+        /* Block bg */
+        about .block {
+        background: #ebede8; /* light green */
+        }
 
 /*------- All Text colours------- */
 
@@ -42,3 +46,12 @@ color: #e9e9e9;  /* depends on image behing what we should do for oclour */
   background-color: red /* change colour of the service blocks that link to the service */
 }
   
+
+/*------- Small details------- */
+
+
+    /* the highlight in the about us/services block */
+
+.about .block {
+background: #ad513b /*red*/
+}
