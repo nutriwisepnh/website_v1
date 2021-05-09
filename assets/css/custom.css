@@ -10,6 +10,11 @@ color: #fff;
 background: #55674f;  /*green, on selection of the navigation bar items */
 }
 
+  /*About us part */
+    .bg-one {
+background-color: #ffffff;
+}
+
 
 
 /*------- All Text colours------- */
