@@ -51,7 +51,6 @@ color: #e9e9e9;  /* depends on image behing what we should do for oclour */
 
 
     /* the highlight in the about us/services block */
-
-.about .block {
-background: #ad513b /*red*/
+.about .block:hover {
+    border-bottom: 5px solid #ad513b; /*red*/
 }
