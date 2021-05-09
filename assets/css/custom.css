@@ -1,3 +1,22 @@
+/*------- All back ground colours------- */
+
+    /*navigation bar*/
+.navigation {
+  background-color: #ffffff
+}
+
+
+/*------- All Text colours------- */
+
+  /*navigation bar, when scrolled down*/
+
+.navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link{
+  color: #ad513b. /*red*/
+}
+
+
+
+
 .service-block, .block {
   border-radius:10px
 }
