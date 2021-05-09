@@ -19,6 +19,7 @@
 			{{ range .about_item }}
 			{{"<!-- About item -->" | safeHTML}}
 			<div class="col-lg-4 text-center wow fadeInUp" data-wow-duration="500ms">
+				<a href="{{.mdpath}}" style="display:block">
 				<div class="block">
 					<div class="icon-box">
 						{{with .icon}}<i class="{{ . }}"></i>{{ end }}
@@ -29,6 +30,7 @@
 						<p>{{ .content | markdownify }}</p>
 					</div>
 				</div>
+				</a>
 			</div>
 			{{ end }}
 		</div>
