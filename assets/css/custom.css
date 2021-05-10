@@ -53,6 +53,10 @@
             border-color:#ebede8
         }
 
+        .form-meghna ::placeholder {
+            color:rgba(173, 81, 59, 0.65) !important /*placeholder text, red ish */
+        }
+
         /* button contact us submit */
              #contact-submit {
         border: 1px solid rgba(236,239,241,.07);
