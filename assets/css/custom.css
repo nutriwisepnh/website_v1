@@ -75,7 +75,7 @@
         }
 
             /* Social icon */
-            .social-icon ul li a {
+            .social-icon ul li 
                 background-color: #ebede8;
                 border-radius: 40px;
             }
@@ -87,7 +87,7 @@
         
 
 
-/*------- All Text colours and stuff------- */
+/*---------------------------------- All Text colours and stuff----------------------------------- */
 
           /*navigation bar, when scrolled down*/
         .navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link{
@@ -96,16 +96,20 @@
 
           /*navigation bar, normal colour*/
         .navbar-dark .navbar-nav .nav-link {
-        color: #604c4c;   /*still have to be adjusted */
+        color: #393b3f
         }
 
   /*About us, de title*/
         .title h2 {
-        color: #55674f;
+        color: #393b3f /*#55674f;
         }
 
         .title h2 span {
-        color: #55674f;  /* de "US" part, that is usually a different colour is now same, dark green */
+        color: #393b3f /*#55674f;  /* de "US" part, that is usually a different colour is now same, dark green */
+        }
+
+        a { 
+            color: #393b3f
         }
         
     /*Feauture*/
@@ -113,16 +117,15 @@
         .knowmore {
             text-align: center
         }
+
         /* Main text */
 
         body {
         color: #393b3f;  /* dark grey colour */
         }
 
- 
-}
 
-
+            
 
  /*Analyze my diet, the text under the title*/
 call-to-action p {
