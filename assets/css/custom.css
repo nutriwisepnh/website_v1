@@ -44,11 +44,12 @@
         }
 
         /* button contact us submit */
-        .contact-submit.btn {
+        #contact-submit {
             backgroud-color: #ebede8 /* very light green */
         }       
 
-        .contact-submit.btn:hover {
+        #contact-submit:hover {
+                            border-color: #698161;
                             background: #698161; /*mid green*/
                             color: #fff
                             }
