@@ -50,8 +50,8 @@
 
         /* form */
         .form-meghna .form-control {
-            background-color: #ebede8;
-            color: #393b3f
+            background-color: #b2b2b2 /* #ebede8; */
+            color: #fff /*#393b3f */
         }
 
         .form-meghna input:hover, .form-meghna textarea:hover {
