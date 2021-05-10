@@ -24,7 +24,7 @@
   /*feature intro me */
 
         .section-bg {
-        background: #f1eae4; /* beige  */
+        background: #f6f6f6 /*#f1eae4; /* beige  */
         }
 
  /*blog */
@@ -44,7 +44,7 @@
         }
 
 
-        .title h2.custom-contact-us {
+        /*.title h2.custom-contact-us {
                         color: #fff
                     }
 
