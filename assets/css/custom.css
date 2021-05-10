@@ -7,13 +7,13 @@
 
         ::selection {
         color: #fff;
-        background: #55674f;  /*green, on selection of the navigation bar items */
+        background: #55674f  /*green, on selection of the navigation bar items */
         }
 
   /*About us part */
         /* main bg */
             .bg-one {
-        background-color: #ffffff;
+        background-color: #ffffff
         }
 
         /* Block bg */
@@ -40,7 +40,7 @@
  /* Contact us */
 
         .contact-us.section-bg, footer.section-bg {
-            background-color: #f6f6f6  /*#55674f /*dark green */
+            background-color: #b2b2b2 /*#f6f6f6  /*#55674f /*dark green */
         }
 
 
@@ -55,7 +55,7 @@
         }
 
         .form-meghna input:hover, .form-meghna textarea:hover {
-            border-color:#ebede8
+            border-color: #f6f6f6
         }
 
         .form-meghna ::placeholder {
@@ -65,9 +65,9 @@
         /* button contact us submit */
              #contact-submit {
         border: 1px solid rgba(236,239,241,.07);
-        background: #698161
+        background: #f6f6f6 /*#698161 */
         }
-
+ 
         #contact-submit:hover {
             border-color: #ebede8;
             background: #ebede8;
