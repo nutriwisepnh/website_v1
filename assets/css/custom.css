@@ -50,7 +50,7 @@
 
         /* form */
         .form-meghna .form-control {
-            background-color: #b2b2b2 /* #ebede8; */
+            background-color: #b2b2b2; /* #ebede8; */
             color: #fff /*#393b3f */
         }
 
@@ -65,13 +65,14 @@
         /* button contact us submit */
              #contact-submit {
         border: 1px solid rgba(236,239,241,.07);
-        background: #f6f6f6 /*#698161 */
+        background: #f6f6f6; /*#698161 */
+            color:  #393b3f
         }
  
         #contact-submit:hover {
-            border-color: #ebede8;
-            background: #ebede8;
-            color:#393b3f
+            border-color: #f6f6f6 /*#ebede8; */
+            background: #f6f6f6 /* #ebede8; */
+            color: #393b3f
         }
 
             /* Social icon */
