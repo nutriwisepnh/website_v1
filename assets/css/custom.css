@@ -69,6 +69,20 @@
             color:#393b3f
         }
 
+            /* Social icon */
+            .social-icon ul li a {
+                background-color: #ebede8;
+                border-radius: 40px;
+            }
+
+            .social-icon ul li a:hover {
+                background:#698161
+            }
+
+            .custom-contact-us {
+                color: #fff
+            }
+
 
 /*------- All Text colours and stuff------- */
 
