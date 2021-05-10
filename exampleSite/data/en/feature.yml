@@ -1,8 +1,8 @@
 ---
 feature:
   enable: true
-  image: images/about/Melanie.png
-  image_webp: images/about/Melanie.png
+  image: images/about/melanie.png
+  image_webp: images/about/melanie.png
   title: Hi, I'm Melanie
   content: I take a simple and sustainable approach to nutrition. A healthy diet shouldn’t
     be about restriction or deprivation. In my world it’s all about variety, balance
