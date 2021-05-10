@@ -1,6 +1,6 @@
 ---
 cta:
-  enable: true
+  enable: false
   bg_image: "/images/pexels-photo-2014691.jpg"
   bg_image_webp: "/images/pexels-photo-2014691.webp"
   title: Analyze My Diet
