@@ -43,6 +43,15 @@
             background-color: #55674f /*dark green */
         }
 
+        /* form */
+        .form-meghna .form-control {
+            background-color: #ebede8;
+            color: #393b3f;
+        }
+
+        .form-meghna input:hover, .form-meghna textarea:hover {
+            border-color:#ebede8
+
         /* button contact us submit */
              #contact-submit {
         border: 1px solid rgba(236,239,241,.07);
