@@ -1,5 +1,17 @@
 /*------- All back ground colours------- */
 
+.hero-area {
+    background-color: #fff
+}
+
+.hero-area:before {
+    content: '';
+    background: #fff
+}
+
+
+
+
     /*navigation bar*/
         .navigation {
           background-color: #ffffff
