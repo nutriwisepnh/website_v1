@@ -184,7 +184,7 @@ color: #e9e9e9;  /* depends on image behing what we should do for oclour */
                 background-color: #b2b2b2; /*#55674f; */
                 color: #ffffff;
                 border-radius: 30px;
-                border-color: none
+                border-color: transparent
                 }
 
                 /* Blog post, the button, when hovering over it, alsp the main Learn more buttom */
