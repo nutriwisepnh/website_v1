@@ -1,3 +1,10 @@
+/*------- Logo in banner --------- */
+
+img.bannerlogo {
+  display: inline-block;
+  width: 700px;
+}
+
 /*------- All back ground colours------- */
 
 .hero-area {
