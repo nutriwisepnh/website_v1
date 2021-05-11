@@ -7,11 +7,12 @@ h2 {
   color: #393b3f;
 }
 
-h3 {
+h3, .post-block .cotent h3 a {
   font-weight: 400;
   font-family: 'Quicksand', sans-serif;
   color: #afbac4;
 }
+
 
 p {
   font-weight: 300;
