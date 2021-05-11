@@ -82,22 +82,22 @@ img.bannerlogo {
  /* Contact us */
 
         .contact-us.section-bg, footer.section-bg {
-            background-color: #b2b2b2 /*#f6f6f6  /*#55674f /*dark green */
+            background-color: #f6f6f6 /*#f6f6f6  /*#55674f /*dark green */
         }
 
 
         .title h2.custom-contact-us {
-                        color: #fff
+                        color: #393b3f
                     }
 
         /* form */
         .form-meghna .form-control {
-            background-color: #f6f6f6; /* #ebede8; */
-            color: #fff /*#393b3f */
+            background-color: #fff; /* #ebede8; */
+            color: #393b3f /*#393b3f */
         }
 
         .form-meghna input:hover, .form-meghna textarea:hover {
-            border-color: #f6f6f6
+            border-color: #fff
         }
 
         .form-meghna ::placeholder {
