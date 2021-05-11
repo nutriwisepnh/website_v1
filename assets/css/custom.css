@@ -117,17 +117,18 @@ img.bannerlogo {
             color: #393b3f
         }
 
-            /* Social icon */
-            .social-icon ul li {
-             
+     /* Social icon */
+           
+              .social-icon ul li {
                 background-color: #f6f6f6;
-                border-radius: 40px;
+                border-radius: 40px
             }
+
             /*normal color of the icon itself */
               .social-icon ul li a i{
                 color: #b2b2b2;
                 background-color: #f6f6f6;
-                border-radius: 40px;
+                border-radius: 40px
             }
 
             .social-icon ul li a:hover {
