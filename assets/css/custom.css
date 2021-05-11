@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,600;0,700;1,200;1,300;1,400;1,600;1,700&family=Quicksand:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,600;0,700;1,200;1,300;1,400;1,600;1,700&family=Quicksand:wght@300;400;500;600;700&display=swap&family=Patrick+Hand&display=swap');
 
 h2 {
   font-weight: 400;
@@ -20,6 +20,9 @@ p {
   color: #393b3f;
 }
 
+.btn {
+  font-family: 'Patrick Hand', sans-serif;
+}
 
 /*------- Logo in banner --------- */
 
@@ -270,5 +273,5 @@ color: #3e78bc;  /*blue*/
                             color: #fff
                             }
 
-                  
+                      
 
