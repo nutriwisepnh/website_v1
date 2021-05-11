@@ -139,7 +139,9 @@ img.bannerlogo {
                 background-color: #f6f6f6
             }
 
-         
+            .social-icon ul li a:hover i{
+                color:#87ba61; /*light green*/
+            }
 
 
 /*---------------------------------- All Text colours and stuff----------------------------------- */
