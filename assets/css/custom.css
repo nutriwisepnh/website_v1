@@ -96,7 +96,8 @@ img.bannerlogo {
         /* form */
         .form-meghna .form-control {
             background-color: #fff; /* #ebede8; */
-            color: #393b3f /*#393b3f */
+            color: #393b3f; /*#393b3f */
+            font-family: 'Nunito', sans-serif;
         }
 
         .form-meghna input:hover, .form-meghna textarea:hover {
@@ -104,7 +105,8 @@ img.bannerlogo {
         }
 
         .form-meghna ::placeholder {
-            color:rgba(173, 81, 59, 0.65) !important /*placeholder text, red ish */
+            color:rgba(173, 81, 59, 0.65); !important /*placeholder text, red ish */
+            font-family: 'Nunito', sans-serif
         }
 
         /* button contact us submit */
