@@ -135,7 +135,8 @@ img.bannerlogo {
             }
 
             .social-icon ul li a:hover {
-                background:#87ba61 /*light green*/
+                color:#87ba61; /*light green*/
+                background:transparant
             }
 
          
