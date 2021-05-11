@@ -3,12 +3,12 @@ about:
   enable : true
   title : Services
   about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-headphone-alt # themify icon pack : https://themify.me/themify-icons
     title : 20 min introductory call
     content : Not sure what to expect? Let's have a quick call where i'll explain what we can do.
     mdpath: /blog/service1
 
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-bar-chart # themify icon pack : https://themify.me/themify-icons
     title : Personlized Diet Analysis
     content : Discover what you are eating.
     mdpath: /blog/service1
