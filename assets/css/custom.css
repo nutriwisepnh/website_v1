@@ -107,14 +107,14 @@ img.bannerlogo {
         /* button contact us submit */
              #contact-submit {
         border: 1px solid rgba(236,239,241,.07);
-        background: #f6f6f6; /*#698161 */
-            color:  #393b3f
+        background: #ad513b; /*#698161 */
+            color:  #fff
         }
  
         #contact-submit:hover {
-            border-color: #f6f6f6; /*#ebede8; */
-            background: #f6f6f6; /* #ebede8; */
-            color: #393b3f
+            border-color: #bf6d58; /*#ebede8; */
+            background: #bf6d58; /* #ebede8; */
+            color: #fff
         }
 
      /* Social icon */
@@ -266,7 +266,7 @@ color: #3e78bc;  /*blue*/
                         }
 
                         .btn-main:hover {
-                            background: #bf6d58; /*red*/
+                            background: #bf6d58; /*red lighter*/
                             color: #fff
                             }
 
