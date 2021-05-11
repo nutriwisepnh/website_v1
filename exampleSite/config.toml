@@ -94,8 +94,8 @@ preloader = "images/websitelogo_v2.png"
 icon = "ti-facebook"
 link = "#"
 [[params.social]]
-icon = "ti-linkedin"
+icon = "ti-instagram"
 link = "#"
 [[params.social]]
-icon = "ti-instagram"
+icon = "ti-linkedin"
 link = "#"
