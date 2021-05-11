@@ -214,6 +214,11 @@ color: #e9e9e9;  /* depends on image behing what we should do for oclour */
                         border-bottom: 5px solid #ad513b /*red*/
                     }
 
+/* when hovering over the services, the icon color */
+a:hover {
+color: #3e78bc;  /*blue*/
+}
+
              /* the little line under de H2 titles */
                     .border-meghna:before {
                     background-color: #ad513b /*red*/
