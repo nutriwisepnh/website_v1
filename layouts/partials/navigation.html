@@ -1,4 +1,5 @@
 <section class="sticky-top navigation">
+	<script>var ii = 0 </script>
 	<div class="container">
 		<nav class="navbar navbar-expand-lg navbar-dark">
 			<!-- <a class="navbar-brand p-0" href="{{ .Site.BaseURL | relLangURL }}">
@@ -15,12 +16,12 @@
 
 			<div class="collapse navbar-collapse" id="navigation" style="display:table!important">
 				<ul class="navbar-nav ml-auto">
-					{{var i = 0}}
+			
 					<li class="nav-item" style="border-bottom: solid 4px red; width:100%"></li>
 					{{ range site.Menus.main }}
 					<li class="nav-item" style="border-bottom: solid 4px red">
             <a class="nav-link" {{if findRE `^http` .URL}}target="_blank"{{end}}
-						href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{ .URL }}{{else}}{{.URL | relLangURL}}{{end}}">{{ .Name }}as</a>
+						href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{ .URL }}{{else}}{{.URL | relLangURL}}{{end}}">{{ .Name }}as{{i}}</a>
 					</li>
 					
 					{{ end }}
