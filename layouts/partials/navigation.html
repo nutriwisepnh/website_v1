@@ -17,7 +17,7 @@
 				<ul class="navbar-nav ml-auto">
 					<li class="nav-item" style="border-bottom: solid 4px red; width:100%"></li>
 					{{ range site.Menus.main }}
-					<li class="nav-item">
+					<li class="nav-item" style="border-bottom: solid 4px {{.stripeColor}}">
             <a class="nav-link" {{if findRE `^http` .URL}}target="_blank"{{end}}
 						href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{ .URL }}{{else}}{{.URL | relLangURL}}{{end}}">{{ .Name }}</a>
 					</li>
