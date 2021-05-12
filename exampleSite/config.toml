@@ -18,11 +18,11 @@ name = "3D78BC"
 url = "#services"
 weight = 2
 [[Languages.en.menu.main]]
-name = "3D78BC"
+name = "3D78Bd"
 url = "#blog"
 weight = 6
 [[Languages.en.menu.main]]
-name = "3D78BC"
+name = "3D78Bg"
 url = "#contact"
 weight = 7
 [Languages.fr]
