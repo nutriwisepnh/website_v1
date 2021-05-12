@@ -14,15 +14,15 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
-name = "services"
+name = "3D78BC"
 url = "#services"
 weight = 2
 [[Languages.en.menu.main]]
-name = "blog"
+name = "3D78BC"
 url = "#blog"
 weight = 6
 [[Languages.en.menu.main]]
-name = "contact"
+name = "3D78BC"
 url = "#contact"
 weight = 7
 [Languages.fr]
