@@ -14,16 +14,19 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
-name = "#3D78BC"
+name = "#services"
 url = "#services"
+color = "#A83123"
 weight = 2
 [[Languages.en.menu.main]]
-name = "#3D78BD"
+name = "blog"
 url = "#blog"
+color = "#FBBC53"
 weight = 6
 [[Languages.en.menu.main]]
-name = "#3D78BE"
+name = "contact"
 url = "#contact"
+color = "#85BB65"
 weight = 7
 [Languages.fr]
 contentDir = "content/french"
