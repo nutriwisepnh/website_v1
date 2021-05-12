@@ -38,18 +38,22 @@ weight = 2
 [[Languages.fr.menu.main]]
 name = "sur"
 url = "#about"
+color = "#FBBC54"
 weight = 1
 [[Languages.fr.menu.main]]
 name = "un service"
 url = "#services"
+color = "#FBBC55"
 weight = 2
 [[Languages.fr.menu.main]]
 name = "blog"
 url = "#blog"
+color = "#FBBC56"
 weight = 6
 [[Languages.fr.menu.main]]
 name = "contact"
 url = "#contact"
+color = "#FBBC57"
 weight = 7
 [params]
 author = "Melanie van Gendt"
