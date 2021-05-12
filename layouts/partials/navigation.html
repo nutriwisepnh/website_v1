@@ -19,7 +19,7 @@
 					{{ range site.Menus.main }}
 					<li class="nav-item" style="border-bottom: solid 4px {{.stripeColor}}">
             <a class="nav-link" {{if findRE `^http` .URL}}target="_blank"{{end}}
-						href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{ .URL }}{{else}}{{.URL | relLangURL}}{{end}}">{{ .Name }}</a>
+						href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{ .URL }}{{else}}{{.URL | relLangURL}}{{end}}">{{ .Name }}{{ .StripeColor }}{{ .stripeColor }}</a>
 					</li>
 					{{ end }}
 				</ul>
