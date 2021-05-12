@@ -2,6 +2,8 @@
 /*	Page Preloader
 /* ========================================================================= */
 
+var ii = 0
+
 $(window).on('load', function () {
 	$('.preloader').fadeOut(100);
 });
