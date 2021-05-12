@@ -14,7 +14,7 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
-name = "#services"
+name = "services"
 url = "#services"
 color = "#A83123"
 weight = 2
