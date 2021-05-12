@@ -17,14 +17,17 @@ weight = 1
 name = "services"
 url = "#services"
 weight = 2
+stripeColor = "#3D78BC"
 [[Languages.en.menu.main]]
 name = "blog"
 url = "#blog"
 weight = 6
+stripeColor = "#3D78BC"
 [[Languages.en.menu.main]]
 name = "contact"
 url = "#contact"
 weight = 7
+stripeColor = "#3D78BC"
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
