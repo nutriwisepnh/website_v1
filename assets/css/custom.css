@@ -50,6 +50,18 @@ img.bannerlogo {
           background-color: #ffffff
         }
 
+        li.services {
+          border-bottom: solid 4px #A83123   
+        }
+
+        li.blog {
+          border-bottom: solid 4px #FBBC53   
+        }
+
+        li.contact {
+          border-bottom: solid 4px #87BB61   
+        }
+
         ::selection {
         color: #fff;
         background: #55674f  /*green, on selection of the navigation bar items */
@@ -279,6 +291,3 @@ color: #3e78bc;  /*blue*/
                             background: #bf6d58; /*red lighter*/
                             color: #fff
                             }
-
-                      
-
