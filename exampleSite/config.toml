@@ -19,7 +19,7 @@ url = "#services"
 weight = 2
 stripeColor = "#3D78BC"
 [[Languages.en.menu.main]]
-name = "blog"
+name = "blg"
 url = "#blog"
 weight = 6
 stripeColor = "#3D78BC"
