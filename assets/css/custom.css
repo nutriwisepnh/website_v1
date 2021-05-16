@@ -299,9 +299,9 @@ color: #3e78bc;  /*blue*/
 
                     .pagination .page-item .page-link {
                         border-radius: 20px;
-                        background: #ad513b; /*red */
-                        color: #fff;    
-                        border: 1px solid #ad513b
+                        background: #fff; 
+                        color: #393b3f;    
+                        border: 1px solid #fff
                     }
 
             /* Hover */
