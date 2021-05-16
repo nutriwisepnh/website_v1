@@ -62,7 +62,8 @@ background-color: #ffffff;
 
         .house {
           font-size: 1.5rem;
-          margin-top: 5px;
+          margin-top: 10px;
+          padding: 0 7px;
         }
 
         .navigation {
