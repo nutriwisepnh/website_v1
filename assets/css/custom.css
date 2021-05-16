@@ -299,15 +299,17 @@ color: #3e78bc;  /*blue*/
 
                     .pagination .page-item .page-link {
                         border-radius: 20px;
-                        background: #ad513b;
+                        background: #ad513b; /*red */
                         color: #fff;    
+                        border-color: #ad513b
                      ]
                     }
 
             /* Hover */
             .pagination .page-item .page-link:hover {
                  background: #bf6d58; /*red lighter*/
-                 color: #fff
+                 color: #fff;
+               border-color: #bf6d58
             }
 
             /* Outer 2 arrow buttons */
@@ -317,8 +319,8 @@ color: #3e78bc;  /*blue*/
 
              /* Current Page of Blog posts */
             .pagination .page-item.active .page-link {
-                background: #f6f6f6;
-                color: #698161;
-                border-color:#f6f6f6
+                background: #f6f6f6; /*light grey */
+                color: #698161; /* Dark grey*/
+                border-color: #f6f6f6
             }
 
