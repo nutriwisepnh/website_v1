@@ -308,7 +308,8 @@ color: #3e78bc;  /*blue*/
             .pagination .page-item .page-link:hover {
                  background: #fff; /*red lighter*/
                  color: #393b3f;
-               border: 1px solid #fff
+               border: 1px solid #fff;
+              font-family: 'Nunito', sans-serif;
             }
 
             /* Outer 2 arrow buttons */
