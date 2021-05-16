@@ -14,19 +14,19 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
+color = "#A83123"
 name = "services"
 url = "#services"
-color = "#A83123"
 weight = 2
 [[Languages.en.menu.main]]
+color = "#FBBC53"
 name = "blog"
 url = "#blog"
-color = "#FBBC53"
 weight = 6
 [[Languages.en.menu.main]]
+color = "#85BB65"
 name = "contact"
 url = "#contact"
-color = "#85BB65"
 weight = 7
 [Languages.fr]
 contentDir = "content/french"
@@ -36,24 +36,24 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[Languages.fr.menu.main]]
+color = "#FBBC54"
 name = "sur"
 url = "#about"
-color = "#FBBC54"
 weight = 1
 [[Languages.fr.menu.main]]
+color = "#FBBC55"
 name = "un service"
 url = "#services"
-color = "#FBBC55"
 weight = 2
 [[Languages.fr.menu.main]]
+color = "#FBBC56"
 name = "blog"
 url = "#blog"
-color = "#FBBC56"
 weight = 6
 [[Languages.fr.menu.main]]
+color = "#FBBC57"
 name = "contact"
 url = "#contact"
-color = "#FBBC57"
 weight = 7
 [params]
 author = "Melanie van Gendt"
@@ -65,7 +65,7 @@ post_share = true
 enable = false
 expire_days = 2
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 map_latitude = "11.540541"
 map_longitude = "104.915957"
