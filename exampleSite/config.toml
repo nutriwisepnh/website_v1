@@ -81,7 +81,7 @@ link = "plugins/slick/slick.css"
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
 [[params.plugins.css]]
-link = "plugins/fontawesome-free-5.15.3-web/css/fontawesome.min.css"
+link = "plugins/fontawesome-free-5.15.3-web/css/all.min.css"
 [[params.plugins.js]]
 link = "plugins/jquery/jquery.min.js"
 [[params.plugins.js]]
