@@ -306,9 +306,9 @@ color: #3e78bc;  /*blue*/
 
             /* Hover */
             .pagination .page-item .page-link:hover {
-                 background: #bf6d58; /*red lighter*/
-                 color: #fff;
-               border: 1px solid #bf6d58
+                 background: #fff; /*red lighter*/
+                 color: #393b3f;
+               border: 1px solid #393b3f
             }
 
             /* Outer 2 arrow buttons */
