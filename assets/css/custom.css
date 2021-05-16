@@ -301,7 +301,8 @@ color: #3e78bc;  /*blue*/
                         border-radius: 20px;
                         background: #fff; 
                         color: #393b3f;    
-                        border: 1px solid #fff
+                        border: 1px solid #fff;
+                        font-family: 'Nunito', sans-serif;
                     }
 
             /* Hover */
