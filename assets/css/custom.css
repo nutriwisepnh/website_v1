@@ -313,7 +313,10 @@ color: #3e78bc;  /*blue*/
 
             /* Outer 2 arrow buttons */
             .pagination .page-item:first-child .page-link, .pagination .page-item:last-child .page-link {
-                border-radius:10px
+                border-radius:10px;
+                background: #fff; /*red lighter*/
+                color: #393b3f;
+                border: 1px solid #393b3f
             }
 
              /* Current Page of Blog posts */
