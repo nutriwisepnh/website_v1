@@ -59,6 +59,13 @@ background-color: #ffffff;
 
 
     /*navigation bar*/
+
+        .house {
+          font-size: 1.5rem;
+          margin-top: 5px;
+          border-bottom: solid 4px #87bb61;
+        }
+
         .navigation {
           background-color: #ffffff
         }
