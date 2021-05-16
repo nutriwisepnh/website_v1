@@ -33,6 +33,10 @@ img.bannerlogo {
 
 /*------- All back ground colours------- */
 
+body {
+background-color: #ffffff;
+}
+
 .hero-area {
     background-color: #fff
 }
