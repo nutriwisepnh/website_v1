@@ -301,7 +301,7 @@ color: #3e78bc;  /*blue*/
                         border-radius: 20px;
                         background: #ad513b; /*red */
                         color: #fff;    
-                        border-color: #ad513b
+                        border: 1px solid #ad513b
                      ]
                     }
 
@@ -309,7 +309,7 @@ color: #3e78bc;  /*blue*/
             .pagination .page-item .page-link:hover {
                  background: #bf6d58; /*red lighter*/
                  color: #fff;
-               border-color: #bf6d58
+               border: 1px solid #bf6d58
             }
 
             /* Outer 2 arrow buttons */
