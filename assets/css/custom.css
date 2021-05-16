@@ -291,3 +291,34 @@ color: #3e78bc;  /*blue*/
                             background: #bf6d58; /*red lighter*/
                             color: #fff
                             }
+
+
+
+/* All blogs page, the buttons to navigate */
+
+
+                    .pagination .page-item .page-link {
+                        border-radius: 20px;
+                        background: #ad513b;
+                        color: #fff;    
+                     ]
+                    }
+
+            /* Hover */
+            .pagination .page-item .page-link:hover {
+                 background: #bf6d58; /*red lighter*/
+                 color: #fff
+            }
+
+            /* Outer 2 arrow buttons */
+            .pagination .page-item:first-child .page-link, .pagination .page-item:last-child .page-link {
+                border-radius:10px
+            }
+
+             /* Current Page of Blog posts */
+            .pagination .page-item.active .page-link {
+                background: #f6f6f6;
+                color: #698161;
+                border-color:#f6f6f6
+            }
+
