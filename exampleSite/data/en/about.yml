@@ -9,11 +9,11 @@ about:
  #   mdpath: /blog/service1
 
   - icon : ti-bar-chart # themify icon pack : https://themify.me/themify-icons
-    title : Personlized Diet Consultation
-    content : Nutrition Advice Tailored to your needs.
+    title : Personlized Nutrition Consultation
+    content : Nutrition Advice Tailored to your needs
     mdpath: /blog/service1
     
   - icon : ti-calendar # themify icon pack : https://themify.me/themify-icons
-    title : Customized Meal Plan. 
+    title : Customized Meal Plan
     content : Motivated to eat healthy? But no time to plan, shop and cook? Learn more about our customized meal plan.
     mdpath: /blog/service1
