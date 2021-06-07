@@ -3,17 +3,17 @@ about:
   enable : true
   title : Services
   about_item :
-  - icon : ti-headphone-alt # themify icon pack : https://themify.me/themify-icons
-    title : 20 min introductory call
-    content : Not sure what to expect? Let's have a quick call where i'll explain what we can do.
-    mdpath: /blog/service1
+#  - icon : ti-headphone-alt # themify icon pack : https://themify.me/themify-icons
+ #   title : 20 min introductory call
+ #   content : Not sure what to expect? Let's have a quick call where i'll explain what we can do.
+ #   mdpath: /blog/service1
 
   - icon : ti-bar-chart # themify icon pack : https://themify.me/themify-icons
-    title : Personlized Diet Analysis
-    content : Discover what you are eating.
+    title : Personlized Diet Consultation
+    content : Nutrition Advice Tailored to your needs.
     mdpath: /blog/service1
     
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : Nutrition Consultancy. 
-    content : I assist businesses in their nutrition work. I am also open for working with NGO.
+  - icon : ti-calendar # themify icon pack : https://themify.me/themify-icons
+    title : Customized Meal Plan. 
+    content : Motivated to eat healthy? But no time to plan, shop and cook? Learn more about our customized meal plan.
     mdpath: /blog/service1
