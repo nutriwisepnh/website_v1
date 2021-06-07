@@ -19,9 +19,9 @@ We will review your diet analysis results together in a consult and create a per
 **This package includes:**
 
 1. Introductory 30 min call
-*Informal chat in which I will explain how the service works and answer your questions.
+Informal chat in which I will explain how the service works and answer your questions.
 2. Intake assessment 
-*An online intake assessment to collect some information about your lifestyle and dietary habits.
-*3-day food record
+* An online intake assessment to collect some information about your lifestyle and dietary habits.
+* 3-day food record
 3. A report detailing your nutrient analysis and recommendations for improvement.
 4. Consult (45 min)
