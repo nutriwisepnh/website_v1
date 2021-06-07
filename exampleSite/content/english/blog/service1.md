@@ -1,5 +1,5 @@
 ---
-title: "Personalized Nutrition Consultation"
+title: "Personalized Nutrition Consult"
 date: 2018-09-12T12:52:36+06:00
 image: images/blog/48595947_xl.jpg
 author: Melanie van Gendt
@@ -25,5 +25,7 @@ We will review your diet analysis results together in a consult and create a per
     * 3-day food record
 3. A report detailing your nutrient analysis and recommendations for improvement.
 4. Consult (45 min)
+
+
 
 **Follow-up Consultations available (30$ per 45 min)**
