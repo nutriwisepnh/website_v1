@@ -25,7 +25,3 @@ We will review your diet analysis results together in a consult and create a per
 *3-day food record
 3. A report detailing your nutrient analysis and recommendations for improvement.
 4. Consult (45 min)
-
-
-![image](https://user-images.githubusercontent.com/83652615/120997131-28a56980-c7b1-11eb-8686-3e988b93e39c.png)
-
