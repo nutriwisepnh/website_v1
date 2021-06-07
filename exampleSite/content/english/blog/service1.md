@@ -16,7 +16,7 @@ Before our consultation I will send you an intake assessment form and ask you to
 
 We will review your diet analysis results together in a consult and create a personalized plan to change elements of your diet, based on your needs and a realistic assessment of what you would like to change.  
 
-**This package includes:**
+**This package includes($80):**
 
 1. Introductory 30 min call
     * Informal chat in which I will explain how the service works and answer your questions.
@@ -25,3 +25,5 @@ We will review your diet analysis results together in a consult and create a per
     * 3-day food record
 3. A report detailing your nutrient analysis and recommendations for improvement.
 4. Consult (45 min)
+
+**Follow-up Consultations available (30$ per 45 min)**
