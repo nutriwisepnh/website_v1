@@ -2,9 +2,8 @@
 author = ""
 date = ""
 description = ""
-draft = true
 image = ""
-image_webp = ""
+image_webp = "/images/pexels-photo-2014691.webp"
 title = "test"
 
 +++
