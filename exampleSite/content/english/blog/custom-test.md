@@ -14,7 +14,7 @@ Nutriwise collaborates with NomNom Healthy Meal Delivery in Phnom Penh to provid
 
 The image below explains how it works.
 
-![](/images/custom-plan-info.png#img-custom#img-thumbnail)
+![](/images/custom-plan-info.png#img-thumbnail)
 
 ##### Custom A - Nourish Bowls
 
@@ -22,4 +22,4 @@ The tailor-made meals in this plan are based on a mix-and-match principle to cre
 
 > _If you are following this plan with lunch and dinner included, the weekly menu will include a regular macronutrient adjusted dinner special twice a week (optional)._
 
-![](/images/nourish.png#nourish)
+![](/images/nourish.png#img-nourish)
