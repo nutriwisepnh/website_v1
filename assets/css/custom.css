@@ -358,7 +358,7 @@ color: #3e78bc;  /*blue*/
         /*blogpost image cutom plan */
 
         img[src$='#img-thumbnail'] {
-          width:70%;
+          width:90%;
           display: block;
           margin-left: auto;
           margin-right: auto
