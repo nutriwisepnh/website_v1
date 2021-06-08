@@ -2,8 +2,8 @@
 author = "Melanie van Gendt"
 date = 2021-06-07T17:00:00Z
 description = "try it"
-image = ""
-image_webp = "/images/blog/quinoa_package.webp"
+image = "/images/taylor-kiser-evoiiaivrzu-unsplash.jpg"
+image_webp = ""
 title = "custom test"
 
 +++
