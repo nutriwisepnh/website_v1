@@ -1,9 +1,10 @@
 ---
 title: Custom Meal Plan
 date: 2021-06-08T14:00:00+00:00
-image_webp: images/blog/quinoa_package.webp
+image_webp: ''
 author: Melanie van Gendt
 description: Tailor made meal plan
+image: "/images/blog/quinoa_package.webp"
 
 ---
 Motivated to eat healthy? But no energy or time to plan, shop and cook?
