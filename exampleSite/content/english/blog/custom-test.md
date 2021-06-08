@@ -11,4 +11,6 @@ title = "custom test"
 
 Nutriwise collaborates with NomNom Healthy Meal Delivery in Phnom Penh to provide you with a tailor-made meal plan based on your dietary needs and goals.
 
-![custom](/images/blog/custom-plan-info.png)
+<span class ="custimimg">
+  ![](/images/blog/custom-plan-info.png)
+  </span>
