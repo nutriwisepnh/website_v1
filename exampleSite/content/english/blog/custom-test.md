@@ -14,4 +14,4 @@ Nutriwise collaborates with NomNom Healthy Meal Delivery in Phnom Penh to provid
 
 The image below explains how it works.
 
-![](/images/custom-plan-info.png)
+![](/images/custom-plan-info.png#img-custom#img-thumbnail)
