@@ -1,7 +1,7 @@
 ---
 title: "Custom Meal Plan"
 date: 2018-09-12T12:52:36+06:00
-image: 
+image_webp: images/blog/quinoa_package.webp
 author: Melanie van Gendt
 description : "Tailor made meal plan"
 ---
