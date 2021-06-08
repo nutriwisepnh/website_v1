@@ -1,9 +1,9 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,600;0,700;1,200;1,300;1,400;1,600;1,700&family=Quicksand:wght@300;400;500;600;700&display=swap&family=Arima+Madurai:wght@800&display=swap');
 
-img[src$='#img-thumbnail'] {
-  width:50%;
-}
+
+
+
 
 h2 {
   font-weight: 400;
@@ -355,3 +355,11 @@ color: #3e78bc;  /*blue*/
                 border-color: #f6f6f6
             }
 
+        /*blogpost image cutom plan */
+
+        img[src$='#img-thumbnail'] {
+          width:60%;
+          display: block;
+          margin-left: auto;
+          margin-right: auto
+        }
