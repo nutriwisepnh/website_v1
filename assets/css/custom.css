@@ -364,7 +364,7 @@ color: #3e78bc;  /*blue*/
           margin-right: auto
         }
 
-        img [src$='#img-nourish'] {
+        img[src$='#img-nourish'] {
         vertical-align: middle;
         border-style: none;
         width: 100%;
