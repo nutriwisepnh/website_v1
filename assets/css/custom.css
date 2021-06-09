@@ -22,6 +22,13 @@ h3 {
   color: #afbac4;
 }
 
+h3.custom-a {
+  font-weight: 600;
+  font-family: 'Quicksand', sans-serif;
+  color: #393b3f;
+}
+
+
 h4 {
   font-weight: 400;
   font-family: 'Quicksand', sans-serif;
