@@ -369,3 +369,8 @@ color: #3e78bc;  /*blue*/
         border-style: none;
         width: 100%
         }
+
+        b, strong {
+        font-weight: 900;
+        font-size: larger;
+        }
