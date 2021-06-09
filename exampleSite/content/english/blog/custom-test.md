@@ -18,8 +18,6 @@ The image below explains how it works.
 ![](/images/custom-plan-info.png#img-thumbnail)
 
 As you can see there is the option for a lunch and/or dinner meal plan, and a full-day plan that includes breakfast and snacks. See below for more information.
- 
- 
 
 ### Custom A
 
@@ -27,8 +25,7 @@ As you can see there is the option for a lunch and/or dinner meal plan, and a fu
 
 The tailor-made meals in this plan are based on a mix-and-match principle to create nourishing bowls for lunch and/or dinner. With around **10 base ingredients**, combined with **50+ toppings,** we offer a wide array of different ingredients which together will make up the meals. The plan prioritizes a variety of nutrient-dense foods, to provide you with an nutritious foundation, assisting in your dietary goals.
 
-![](/images/nourish.png#img-nourish)
-  ![](/images/nourish.svg)![](/images/nourish.svg)
+![](/images/nourish.png#img-nourish)  
 
 ### Custom B
 
