@@ -16,10 +16,10 @@ The image below explains how it works.
 
 ![](/images/custom-plan-info.png#img-thumbnail)
 
-`&nbsp;`  
-`&nbsp;`  
-`&nbsp; `  
-`&nbsp;`
+&nbsp;
+&nbsp;  
+&nbsp;  
+&nbsp; `  
 
 # Custom A - Nourish Bowls
 
@@ -27,10 +27,10 @@ The tailor-made meals in this plan are based on a mix-and-match principle to cre
 
 ![](/images/nourish.png#img-nourish)
 
-`&nbsp;`  
-`&nbsp;`  
-`&nbsp;
-&nbsp;`
+&nbsp; 
+&nbsp;  
+&nbsp;
+&nbsp;
 
 # Custom B - VIP plan
 
