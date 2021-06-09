@@ -16,6 +16,4 @@ After my education I moved to New Zealand where I worked in an agricultural rese
 
 This time, I want to support people more directly with nutrition, and thus I created Nutriwise.
 
-**If you are looking for a healthier lifestyle, or have specific (fitness) goals;**
-
-### [**let's get in touch!**](https://nutriwisepnh1.netlify.app/#contact "Contact")
+**If you are looking for a healthier lifestyle, or have specific (fitness) goals;** [**let's get in touch!**](https://nutriwisepnh1.netlify.app/#contact "Contact")
