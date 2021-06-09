@@ -32,9 +32,7 @@ The tailor-made meals in this plan are based on a mix-and-match principle to cre
 
 # Custom B - VIP plan
 
-This plan builds upon the Nourish Bowls, but as an addition it includes
-
-breakfast and snacks. The entire daily menu will be based on your recommended nutrient profile.
+This plan builds upon the Nourish Bowls, but as an addition it includes breakfast and snacks. The entire daily menu will be based on your recommended nutrient profile.
 
 Your daily menu will be delivered to you in the evening, so you can have a great nutritious start the next day.
 
