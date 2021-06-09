@@ -16,11 +16,15 @@ The image below explains how it works.
 
 ![](/images/custom-plan-info.png#img-thumbnail)
 
-&nbsp;
+<br/><br/>
 
-&nbsp;
+<br/><br/>
 
-#### Custom A - Nourish Bowls
+<br/><br/>
+
+<br/><br/>
+
+## Custom A - Nourish Bowls
 
 The tailor-made meals in this plan are based on a mix-and-match principle to create nourishing bowls for lunch and/or dinner. With around **10 base ingredients**, combined with **50+ toppings,** we offer a wide array of different ingredients which together will make up the meals. The plan prioritizes a variety of nutrient-dense foods, to provide you with an nutritious foundation, assisting in your dietary goals.
 
