@@ -6,14 +6,16 @@ image = "/images/Melanie4.png"
 title = "About me"
 
 +++
-Hi there! My name is Melanie and I provide evidence based nutrition consulting. 
+Hi there! My name is Melanie and I provide evidence based nutrition consulting.
 
-We're constantly overwhelmed with contradicting diet and nutrition advise, to the point we don't know what to eat anymore. Most of what we hear is distorted, it wants to sell you something - a miracle water, the latest fad diet book or an unnecessary food supplement. 
+We're constantly overwhelmed with contradicting diet and nutrition advise, to the point we don't know what to eat anymore. Most of what we hear is distorted, it wants to sell you something - a miracle water, the latest fad diet book or an unnecessary food supplement.
 
 With my academic education in nutritional sciences (BSc and MSc, Nutritional Physiology and Health status, Wageningen University, The Netherlands), I take a simple and sustainable approach to nutrition. A healthy diet shouldn't be about restriction and deprivation, but prioritizes variety, balance and moderation.
 
-After my education I moved to New Zealand where I worked in an agricultural research institute, where I worked with a team research the relationship between nutrition and the microbiome. As a hands-on person, I loved being involved in the a variety of research projects, working in the lab and organizing trials. In 2020 I moved to Phnom Penh, Cambodia, for a new chapter in life. 
+After my education I moved to New Zealand where I worked in an agricultural research institute, where I worked with a team research the relationship between nutrition and the microbiome. As a hands-on person, I loved being involved in the a variety of research projects, working in the lab and organizing trials. In 2020 I moved to Phnom Penh, Cambodia, for a new chapter in life.
 
-This time, I want to support people more directly with nutrition, and thus I created Nutriwise. 
+This time, I want to support people more directly with nutrition, and thus I created Nutriwise.
 
-If you are looking for a healthier lifestyle, or have specific (fitness) goals; let's get in touch!
+**If you are looking for a healthier lifestyle, or have specific (fitness) goals; let's get in touch!**
+
+[ Contact me](https://nutriwisepnh1.netlify.app/#contact "Contact Me")
