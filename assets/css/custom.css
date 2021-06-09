@@ -240,7 +240,11 @@ background-color: #ffffff;
         }
 
         a { 
-            color: #393b3f
+            color: #393b3f;
+            font-weight: 600;
+            font-family: 'Quicksand', sans-serif;
+            text-decoration: underline;
+            
         }
         
     /*Feauture*/
