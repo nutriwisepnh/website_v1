@@ -18,17 +18,17 @@ The image below explains how it works.
 
 ![](/images/custom-plan-info.png#img-thumbnail)
 
- 
- Custom A - Nourish Bowls
--
+### Custom A 
+
+#### Nourish Bowls
 
 The tailor-made meals in this plan are based on a mix-and-match principle to create nourishing bowls for lunch and/or dinner. With around **10 base ingredients**, combined with **50+ toppings,** we offer a wide array of different ingredients which together will make up the meals. The plan prioritizes a variety of nutrient-dense foods, to provide you with an nutritious foundation, assisting in your dietary goals.
 
 ![](/images/nourish.png#img-nourish)
 
- 
- Custom B - VIP plan
--
+### Custom B
+
+#### VIP plan
 
 This plan builds upon the Nourish Bowls, but as an addition it includes breakfast and snacks. The entire daily menu will be based on your recommended nutrient profile, and can be adjusted whenever needed.
 
