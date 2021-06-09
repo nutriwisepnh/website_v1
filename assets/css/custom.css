@@ -22,10 +22,16 @@ h3 {
   color: #afbac4;
 }
 
-h3.custom-a {
-  font-weight: 600;
-  font-family: 'Quicksand', sans-serif;
-  color: #393b3f;
+#custom-a {
+    font-weight: 600;
+    font-family: quicksand, sans-serif;
+    color:#393b3f
+}
+
+#custom-b {
+    font-weight: 600;
+    font-family: quicksand, sans-serif;
+    color:#393b3f
 }
 
 
