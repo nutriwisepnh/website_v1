@@ -13,13 +13,13 @@ title = "Customized Meal Plan"
 Nutriwise collaborates with NomNom Healthy Meal Delivery in Phnom Penh to provide you with a tailor-made meal plan based on your dietary needs and goals.
 
 The image below explains how it works.
+&nbsp; 
+&nbsp; 
 
 ![](/images/custom-plan-info.png#img-thumbnail)
 
 &nbsp;
-&nbsp;  
-&nbsp;  
-&nbsp; `  
+&nbsp;   
 
 # Custom A - Nourish Bowls
 
@@ -29,8 +29,6 @@ The tailor-made meals in this plan are based on a mix-and-match principle to cre
 
 &nbsp; 
 &nbsp;  
-&nbsp;
-&nbsp;
 
 # Custom B - VIP plan
 
