@@ -4,9 +4,8 @@ feature:
   image: images/melanie4.png
   image_webp: "/images/melanie4.png"
   title: Hi, I'm Melanie
-  content: |-
-    I take a simple and sustainable approach to nutrition. A healthy diet shouldn’t be about restriction or deprivation. In my world it’s all about variety, balance and moderation. It’s about listening to both your body and mind, to find what works for you.
-
-    I provide evidence based nutrition consulting. With my academic background in nutritional sciences,
-    If you are looking for a healthier lifestyle, or have specific (fitness) goals; let's get in touch!pan
+  content: I take a simple and sustainable approach to nutrition. A healthy diet shouldn’t
+    be about restriction or deprivation. In my world it’s all about variety, balance
+    and moderation. It’s about listening to both your body and mind, to find what
+    works for you.
   feature_item: []
