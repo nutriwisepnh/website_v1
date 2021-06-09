@@ -27,7 +27,7 @@ As you can see there is the option for a lunch and/or dinner meal plan, and a fu
 The tailor-made meals in this plan are based on a mix-and-match principle to create nourishing bowls for lunch and/or dinner. With around **10 base ingredients**, combined with **50+ toppings,** we offer a wide array of different ingredients which together will make up the meals. The plan prioritizes a variety of nutrient-dense foods, to provide you with an nutritious foundation, assisting in your dietary goals.
 
 
-![](/images/nourish.svg)
+![](/images/blog/nourish.svg)
 
 ### Custom B
 
