@@ -29,3 +29,15 @@ The image below explains how it works.
 The tailor-made meals in this plan are based on a mix-and-match principle to create nourishing bowls for lunch and/or dinner. With around **10 base ingredients**, combined with **50+ toppings,** we offer a wide array of different ingredients which together will make up the meals. The plan prioritizes a variety of nutrient-dense foods, to provide you with an nutritious foundation, assisting in your dietary goals.
 
 ![](/images/nourish.png#img-nourish)
+
+# Custom B - VIP plan
+
+This plan builds upon the Nourish Bowls, but as an addition it includes
+
+breakfast and snacks. The entire daily menu will be based on your recommended nutrient profile.
+
+Your daily menu will be delivered to you in the evening, so you can have a great nutritious start the next day.
+
+**Want to know more? Please contact us for more information!**
+
+Curious about NomNom? Learn more about our partner on their website. [https://nomnommeals.com](https://nomnommeals.com "NomNom")
