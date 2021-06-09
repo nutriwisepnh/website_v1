@@ -4,6 +4,11 @@
 
 
 
+h1 {
+font-weight: 400;
+font-family: 'Quicksand', sans-serif;
+color: #393b3f;
+}
 
 h2 {
   font-weight: 400;
