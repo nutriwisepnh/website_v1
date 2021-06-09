@@ -2,7 +2,7 @@
 author = "Melanie van Gendt"
 date = 2021-06-08T17:00:00Z
 description = "About Melanie"
-image = "/images/Melanie4.png"
+image = "/images/melanie5.png"
 title = "About me"
 
 +++
