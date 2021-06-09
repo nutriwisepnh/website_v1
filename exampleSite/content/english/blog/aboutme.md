@@ -12,6 +12,8 @@ We're constantly overwhelmed with contradicting diet and nutrition advise, to th
 
 With my academic education in nutritional sciences (BSc and MSc, Nutritional Physiology and Health status, Wageningen University, The Netherlands), I take a simple and sustainable approach to nutrition. A healthy diet shouldn't be about restriction and deprivation, but prioritizes variety, balance and moderation.
 
-After my education I moved to New Zealand where I worked in an agricultural research institute, where I worked with a team research the relationship between nutrition and the microbiome. As a hands-on person, I loved being involved in the a variety of research projects, working in the lab and organizing trials. In 2020 I moved to Cambodia, for a new chapter in life. This time, I wanted to be able to support people more directly with nutrition, and is why I created Nutriwise. 
+After my education I moved to New Zealand where I worked in an agricultural research institute, where I worked with a team research the relationship between nutrition and the microbiome. As a hands-on person, I loved being involved in the a variety of research projects, working in the lab and organizing trials. In 2020 I moved to Phnom Penh, Cambodia, for a new chapter in life. 
+
+This time, I want to support people more directly with nutrition, and thus I created Nutriwise. 
 
 If you are looking for a healthier lifestyle, or have specific (fitness) goals; let's get in touch!
