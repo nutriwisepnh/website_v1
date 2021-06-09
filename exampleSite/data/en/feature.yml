@@ -9,8 +9,4 @@ feature:
 
     I provide evidence based nutrition consulting. With my academic background in nutritional sciences,
     If you are looking for a healthier lifestyle, or have specific (fitness) goals; let's get in touch!pan
-  feature_item:
-  - title: Hallo
-    content: what is this
-  - icon: ''
-    content: ''
+  feature_item: []
