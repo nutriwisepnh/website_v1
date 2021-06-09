@@ -1,7 +1,7 @@
 +++
 author = "Melanie van Gendt"
 date = 2021-06-07T17:00:00Z
-description = "try it"
+description = "Customized Meal Plan by Nutriwise and NomNom"
 image = "/images/nomnom1.jpg"
 image_webp = ""
 info_custom_plan = ["/images/pexels-photo-1640774.jpeg", "/images/blog/custom-plan-info.png"]
