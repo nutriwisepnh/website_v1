@@ -101,10 +101,10 @@ enable = true
 preloader = "images/websitelogo_v2.png"
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
+link = "https://www.facebook.com/NutriwisePNH"
 [[params.social]]
 icon = "ti-instagram"
-link = "#"
+link = "https://www.instagram.com/nutriwise_pnh/"
 [[params.social]]
 icon = "ti-linkedin"
-link = "#"
+link = "https://www.linkedin.com/company/nutriwise-pnh"
