@@ -3,7 +3,7 @@ contact:
   enable : true
   title : Contact Us
   subtitle : Contact Details
-  content : If you would like to schedule a introductory call, free of charge please constact me by email, or via this form.
+  content : If you have some questions or would like to schedule an appointment, please contact us via this form, or via email. 
 
   # Contact details
   contact_list:
